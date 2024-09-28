@@ -1,8 +1,9 @@
 import React from 'react'
+import AppFolio from '../component/Folio'
 
 const Portfolio = () => {
   return (
-    <div>Portfolio</div>
+    <div><AppFolio /></div>
   )
 }
 
